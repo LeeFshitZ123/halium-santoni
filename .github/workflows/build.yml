@@ -8,8 +8,6 @@
 name: Halium Image
 
 on: workflow_dispatch
-
-on: 
   push:
     branches:
       - hybris
